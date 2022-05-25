@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Perfil 1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\kamiv\\Documents\\GitHub\\ProyectoFinal-P3"
+    }
+  }
+}
